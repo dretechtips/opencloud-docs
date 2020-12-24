@@ -2,7 +2,7 @@
 A free and open source self-hosted based solution for small businesses and families who are privacy conscious. Installs on a single server machine with step by step procedures on how to properly setup the solution.
 
 ## Why was this created?
-- [X] Privacy - Move your data away from centralized servers and privacy invasive practices.
+- [X] Privacy - Move your data away from centralized servers and privacy invasive practices such as the [Third-Party Doctrine](https://en.wikipedia.org/wiki/Third-party_doctrine).
 - [X] Security - Modern security practices with a reverse proxy implementation to mascurate true IP Address and protect against DDOS attacks.
 - [X] Ease of Use - Simple installation guide with LDAP based universal account management. 
 - [X] Open Ecosystem - Easy interoperability with other components that support LDAP based accounts.
