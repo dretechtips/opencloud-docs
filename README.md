@@ -5,6 +5,7 @@ A free and open source self-hosted based solution for small businesses and famil
 - [X] Privacy - Move your data away from centralized servers and privacy invasive practices.
 - [X] Security - Modern security practices with a reverse proxy implementation to mascurate your true IP Address.
 - [X] Ease of Use - Simple installation guide with LDAP based universal account management. 
+- [X] Open Ecosystem - Easy interoperability with other components that support LDAP based accounts.
 
 ## Components
 - [X] TrueNAS - BASE OS AND STORAGE MANAGEMENT
