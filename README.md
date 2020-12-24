@@ -13,7 +13,3 @@ A free and open source self-hosted based solution for small businesses and famil
 - [ ] opencloud-acm + Apache Directory Service - ACCOUNT MANAGEMENT
 - [X] Nginx Reverse Proxy + ufw - EXTERNAL NETWORK SECURITY
 
-## Goals
-- [ ] Easy to install 
-- [ ] Simple configuration
-- [ ] Standardize and Extensible account management
