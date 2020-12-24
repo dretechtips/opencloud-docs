@@ -7,7 +7,7 @@ A free and open source self-hosted based solution for small businesses and famil
 - [X] Ease of Use - Simple installation guide with LDAP based universal account management. 
 - [X] Open Ecosystem - Easy interoperability with other components that support LDAP based accounts.
 
-## Components
+## Recommended/Pre-bundled Components
 - [X] [TrueNAS](https://www.truenas.com/) - BASE OS AND STORAGE MANAGEMENT
 - [X] [Nextcloud](https://nextcloud.com/) - OFFICE SUITE & FILE SYNC
 - [X] [iRedMail](https://iredmail.org/) - E-MAIL SOLUTION
