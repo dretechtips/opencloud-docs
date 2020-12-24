@@ -8,9 +8,9 @@ A free and open source self-hosted based solution for small businesses and famil
 - [X] Open Ecosystem - Easy interoperability with other components that support LDAP based accounts.
 
 ## Components
-- [X] TrueNAS - BASE OS AND STORAGE MANAGEMENT
-- [X] Nextcloud - OFFICE SUITE
-- [X] iRedMail - E-MAIL SOLUTION
-- [ ] opencloud-acm + Apache Directory Service - ACCOUNT MANAGEMENT
-- [X] Nginx Reverse Proxy + ufw - EXTERNAL NETWORK SECURITY
+- [X] [TrueNAS](https://www.truenas.com/) - BASE OS AND STORAGE MANAGEMENT
+- [X] [Nextcloud](https://nextcloud.com/) - OFFICE SUITE
+- [X] [iRedMail](https://iredmail.org/) - E-MAIL SOLUTION
+- [X] opencloud-acm + [Apache Directory Service](https://directory.apache.org/) - ACCOUNT MANAGEMENT
+- [X] [Nginx](https://www.nginx.com/) + [ufw](https://help.ubuntu.com/community/UFW) - EXTERNAL NETWORK SECURITY
 
