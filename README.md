@@ -9,7 +9,7 @@ A free and open source self-hosted based solution for small businesses and famil
 
 ## Components
 - [X] [TrueNAS](https://www.truenas.com/) - BASE OS AND STORAGE MANAGEMENT
-- [X] [Nextcloud](https://nextcloud.com/) - OFFICE SUITE
+- [X] [Nextcloud](https://nextcloud.com/) - OFFICE SUITE & FILE SYNC
 - [X] [iRedMail](https://iredmail.org/) - E-MAIL SOLUTION
 - [X] [Apache Directory Service](https://directory.apache.org/) + opencloud-acm - ACCOUNT MANAGEMENT
 - [X] [Nginx](https://www.nginx.com/) + [ufw](https://help.ubuntu.com/community/UFW) - EXTERNAL NETWORK SECURITY
