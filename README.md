@@ -8,12 +8,12 @@ A free and open source self-hosted office solution for small businesses and peop
 - [X] Open Ecosystem - Easy interoperability with other components that support LDAP based accounts.
 
 ## Recommended/Pre-bundled Components
-- [X] [TrueNAS](https://www.truenas.com/) - BASE OS AND STORAGE MANAGEMENT
-- [X] [Nextcloud](https://nextcloud.com/) - OFFICE SUITE & FILE SYNC
-- [X] [iRedMail](https://iredmail.org/) - E-MAIL SOLUTION
-- [X] [Adguard DNS](https://adguard.com/en/adguard-home/overview.html) - NETWORK-WIDE ADBLOCKER
-- [X] [CUPS](https://www.cups.org/) - PRINTER MANAGER
-- [X] [Apache Directory Service](https://directory.apache.org/) + opencloud-acm - ACCOUNT MANAGEMENT
-- [X] [Nginx](https://www.nginx.com/) + [ufw](https://help.ubuntu.com/community/UFW) - EXTERNAL NETWORK SECURITY
+- [X] [TrueNAS](https://www.truenas.com/) - Base OS and Storage Manager
+- [X] [Nextcloud](https://nextcloud.com/) - Office Sync & File Sync
+- [X] [iRedMail](https://iredmail.org/) - E-mail Solution
+- [X] [Adguard DNS](https://adguard.com/en/adguard-home/overview.html) - Network-wide Adblocker
+- [X] [CUPS](https://www.cups.org/) - Printer Manager
+- [X] [Apache Directory Service](https://directory.apache.org/) + opencloud-acm - Account Management
+- [X] [Nginx](https://www.nginx.com/) + [ufw](https://help.ubuntu.com/community/UFW) - External Network Security
 
 
