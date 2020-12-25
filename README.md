@@ -11,6 +11,7 @@ A free and open source self-hosted office solution for small businesses and peop
 - [X] [TrueNAS](https://www.truenas.com/) - BASE OS AND STORAGE MANAGEMENT
 - [X] [Nextcloud](https://nextcloud.com/) - OFFICE SUITE & FILE SYNC
 - [X] [iRedMail](https://iredmail.org/) - E-MAIL SOLUTION
+- [X [Adguard DNS](https://adguard.com/en/adguard-home/overview.html) - NETWORK-WIDE ADBLOCKER
 - [X] [Apache Directory Service](https://directory.apache.org/) + opencloud-acm - ACCOUNT MANAGEMENT
 - [X] [Nginx](https://www.nginx.com/) + [ufw](https://help.ubuntu.com/community/UFW) - EXTERNAL NETWORK SECURITY
 
