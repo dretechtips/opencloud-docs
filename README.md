@@ -16,4 +16,7 @@ A free and open source self-hosted office solution for small businesses and peop
 - [X] [Apache Directory Service](https://directory.apache.org/) + opencloud-acm - Account Management
 - [X] [Nginx](https://www.nginx.com/) + [ufw](https://help.ubuntu.com/community/UFW) - External Network Security
 
+## Installation & Configuration
+Please refer to the wiki page to begin installation and configuration. 
+
 
