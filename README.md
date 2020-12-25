@@ -9,7 +9,7 @@ A free and open source self-hosted office solution for small businesses and peop
 
 ## Recommended/Pre-bundled Components
 - [X] [TrueNAS](https://www.truenas.com/) - Base OS and Storage Manager
-- [X] [Nextcloud](https://nextcloud.com/) - Office Sync & File Sync
+- [X] [Nextcloud](https://nextcloud.com/) - Office Suite & File Sync
 - [X] [iRedMail](https://iredmail.org/) - E-mail Solution
 - [X] [Adguard DNS](https://adguard.com/en/adguard-home/overview.html) - Network-wide Adblocker
 - [X] [CUPS](https://www.cups.org/) - Printer Manager
