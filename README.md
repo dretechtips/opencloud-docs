@@ -1,10 +1,11 @@
 # opencloud-docs[WIP]
-A free and open source self-hosted all-in-one office solution for small businesses and people who are privacy conscious. Every services with LDAP support integrate with opencloud-acm, an **extensible** account manager that syncs accounts.
+A free and open source self-hosted all-in-one office solution for small businesses and people who are privacy conscious.
 ## Why was this created? / Goals
 - [X] Privacy - Move your data away from centralized servers and privacy invasive practices such as the [Third-Party Doctrine](https://en.wikipedia.org/wiki/Third-party_doctrine).
 - [X] Security - Modern security practices with a reverse proxy implementation to mascurate true IP Address and protect against DDOS attacks.
 - [X] Ease of Use - Simple installation guide with LDAP based universal account management. 
 - [X] Open Ecosystem - Easy interoperability with other components that support LDAP based accounts.
+- [X] Extensible - Create sync scripts that automatically sync each services account information and more.
 
 ## Recommended/Pre-bundled Components
 - [X] [TrueNAS](https://www.truenas.com/) - Base OS and Storage Manager
