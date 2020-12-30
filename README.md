@@ -1,5 +1,5 @@
 # opencloud-docs[WIP]
-A free and open source self-hosted all-in-one office solution for small businesses and people who are privacy conscious. The most services with LDAP support integrate with opencloud-acm, an **extensible** account manager that syncs accounts.
+A free and open source self-hosted all-in-one office solution for small businesses and people who are privacy conscious. Every services with LDAP support integrate with opencloud-acm, an **extensible** account manager that syncs accounts.
 ## Why was this created? / Goals
 - [X] Privacy - Move your data away from centralized servers and privacy invasive practices such as the [Third-Party Doctrine](https://en.wikipedia.org/wiki/Third-party_doctrine).
 - [X] Security - Modern security practices with a reverse proxy implementation to mascurate true IP Address and protect against DDOS attacks.
