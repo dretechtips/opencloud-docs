@@ -17,6 +17,7 @@ A free and open source self-hosted all-in-one office solution for small business
 - [X] [Nginx](https://www.nginx.com/) + [ufw](https://help.ubuntu.com/community/UFW) - External Network Security
 
 ## Installation & Configuration
-Please refer to the wiki page to begin installation and configuration. 
+
+**[Single Installation](https://github.com/saandre15/opencloud-docs/blob/main/docs/single-install/setup-guide.md)**
 
 
